@@ -1,4 +1,4 @@
-# WOD TARGET
+# RICK AND MORTY PEDIA
 ![](https://raw.githubusercontent.com/ivsp/ricky-morty-pedia/main/src/assets/images/rick-morty.JPG)
 
 ## Description
