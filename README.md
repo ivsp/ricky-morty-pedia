@@ -6,7 +6,7 @@ Website about the animated series 'Rick and Morty' and includes a character find
 
 ## Deployment
 
-You can se the web deployement in: [https://wodtarget.netlify.app/]
+You can se the web deployement in: [https://rickandmortyped.netlify.app/]
 
 
 
